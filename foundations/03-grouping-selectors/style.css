@@ -1,0 +1,12 @@
+.first-el {
+    color: white;
+    background-color: black;
+}
+
+.second-el {
+    background-color: yellow;
+}
+
+.first-el, .second-el {
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
